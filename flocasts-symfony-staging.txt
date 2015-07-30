@@ -1,1 +1,1 @@
-stripe-hot-fix-release
+hotfix
